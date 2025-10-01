@@ -36,8 +36,8 @@ const Contact = () => {
                 <div>
                   <h4 className="font-semibold text-automotive-dark mb-2">Phone</h4>
                   <p className="text-muted-foreground">
-                    Sales: (555) 123-4567<br />
-                    Support: (555) 123-4568
+                    Sales: +39 328 931 2672<br />
+                    Support: +39 328 931 2672
                   </p>
                 </div>
               </div>
@@ -49,8 +49,8 @@ const Contact = () => {
                 <div>
                   <h4 className="font-semibold text-automotive-dark mb-2">Email</h4>
                   <p className="text-muted-foreground">
-                    info@autopartspro.com<br />
-                    support@autopartspro.com
+                    info@zarinatradeautoparts.eu<br />
+                    sales@zarinatradeautoparts.eu
                   </p>
                 </div>
               </div>
