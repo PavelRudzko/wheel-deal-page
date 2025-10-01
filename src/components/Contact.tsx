@@ -62,8 +62,8 @@ const Contact = () => {
                 <div>
                   <h4 className="font-semibold text-automotive-dark mb-2">Address</h4>
                   <p className="text-muted-foreground">
-                    1234 Auto Parts Boulevard<br />
-                    Detroit, MI 48201
+                    VIA PISANA VECCHIA 82/1<br />
+                    SOLESINO (PD), 35047
                   </p>
                 </div>
               </div>
